@@ -1,4 +1,4 @@
-FROM ubuntu:16.05
+FROM ubuntu:16.04
 MAINTAINER SJPARK
 LABEL purpose="hands on lab"
 RUN apt-get update
